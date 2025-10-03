@@ -36,7 +36,7 @@ The objective was to analyze Walmart’s retail sales dataset to uncover trends,
 ![Monthly Sales](images/Monthly_Sales.png)
 
 ### Monthly Sales with 3-Month Rolling Average
-![Rolling Average](images/3_Month.png)
+![Rolling Average](images/3_Month_Rolling.png)
 
 ### Top 10 Stores by Total Sales
 ![Top Stores](images/Top_10_Stores_Sales.png)
