@@ -42,7 +42,7 @@ The objective was to analyze Walmart’s retail sales dataset to uncover trends,
 ![Top Stores](images/Top_10_Stores_Sales.png)
 
 ### Top 10 Departments by Total Sales
-![Top Departments](images/Top_10_Dept_Sales.png)
+![Top Departments](images/Top10_Dept_Sales.png)
 
 ## ▶️ How to Run
 - Install dependencies: `pip install -r requirements.txt`  
